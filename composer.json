@@ -1,0 +1,20 @@
+{
+    "name": "alkazar/gallery",
+    "description": "A Gallery App Using Dropzone and Lightbox",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ken Steven",
+            "email": "K.Steven@icloud.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+				"Alkazar\\Gallery\\": "src/"    	
+    	}
+    },
+    "minimum-stability": "dev",
+    "require": {
+		"illuminate/support": "~5"
+    }
+}
