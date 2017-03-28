@@ -1,5 +1,5 @@
 # Gallery
-
+[![License](http://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](http://www.opensource.org/licenses/MIT)
 > ### PLEASE NOTE: THIS PACKAGE IS NOT INTENDED FOR USE.
 > It is here as a demonstration of a basic gallery package, uses other non-published packages for user/user-roles, here for testing the usage of github and will contains errors as it is UNFINISHED. This example will simply allow an admin user to create/delete galleries but is missing the form to upload images.
 
